@@ -2,8 +2,10 @@
  
 <h2> This is my notes on this project. This project is made with taking references from W3schools.com and Django documentation. </h2>
 <h3> This is a public repository, If you are intrested to check this project then feel free to clone the repo and local host it using Django Server. This project is made with Django 3.2.5. This project is not hosted online. </h3>
-Django - M(model) - Data that to be represented
+Django - M(model) - Data that to be represented.
+
          V(view) - Request handler that returns template
+         
 	 T(template) - A file containing layout
 
 Django work flow 
@@ -54,8 +56,11 @@ To update the data store the field again in any variable and overwrite and again
 To delete store the field in any variable and use <variable>.delete()
 
 Till now we are operating on data but update the model we need to perform some series of operations. First navigate to the models.py file and add or delete the fields
+
 if any field is added then keep null=true so that empty filds can be added to the table 
+
 migrate the fields to table
+
 now go to shell and update the data in those new fields
 
 -----------------Display Data ---------------------------------------------------------------------------------
