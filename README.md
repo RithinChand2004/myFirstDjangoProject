@@ -1,7 +1,7 @@
 # myFirstDjangoProject
  
 <h2> This is my notes on this project. This project is made with taking references from W3schools.com and Django documentation. </h2>
-
+<h3> This is a public repository, If you are intrested to check this project then feel free to clone the repo and local host it using Django Server. This project is made with Django 3.2.5. This project is not hosted online. </h3>
 Django - M(model) - Data that to be represented
          V(view) - Request handler that returns template
 	 T(template) - A file containing layout
